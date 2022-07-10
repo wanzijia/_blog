@@ -4,8 +4,8 @@ module.exports = [
         link: '/js/',
         // ariaLabel: 'Language Menu',
         items:[
-            {text:'PromiseA+规范实现', link: '/js/promise/'},
-            {text:'ES6语法', link: '/js/program/'}
+            {text:'Promise以及事件循环机制', link: '/js/promise/'},
+            {text:'ES6', link: '/js/program/'}
         ]
     },
     {

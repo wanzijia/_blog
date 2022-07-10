@@ -1,12 +1,16 @@
 ---
 home: true
 heroImage: /logo/logo.gif
-heroText: '一颗苹果'
+heroText: '前端进阶'
 tagline: '向前挪一步'
 actionText: 开始进步 →
-actionLink: /js/ES6+/
+actionLink: /js/promise/
 features:
-- title: 'dream'
-  details: work life balance
-footer: lalalala | Copyright © 2022-marsh-ZJ
+- title: 'Work'
+  # details: work life balance
+- title: 'Life'
+  # details: work life balance
+- title: 'Balance'
+  # details: work life balance
+footer: Hungry and Humble | Copyright © 2022-marsh-ZJ
 ---
