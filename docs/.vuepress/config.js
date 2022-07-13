@@ -20,6 +20,13 @@ module.exports = {
             ],
             '/js/program/': [
                 '',
+                'oop',
+                'this'
+            ],
+            '/js/browser/': [
+                '',
+                'event',
+                'request'
             ],
             '/module/': [
                 '',
@@ -31,9 +38,26 @@ module.exports = {
             '/engineered/': [
                 '',
                 'interview'
+            ],
+            '/vue/vue2/': [
+                '',
+            ],
+            '/vue/vue3/': [
+                '',
+            ],
+            '/vue/vuex/': [
+                '',
+            ],
+            '/vue/vueRouter/': [
+                '',
+            ],
+            '/vue/interview/': [
+                '',
+            ],
+            '/vue/principle/': [
+                '',
             ]
-        },
-        smoothScroll: true,
+        }
     },
     plugins: ['@vuepress/back-to-top']
 }

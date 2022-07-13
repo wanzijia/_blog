@@ -3,7 +3,7 @@ home: true
 heroImage: /logo/logo.gif
 heroText: '前端进阶'
 tagline: '向前挪一步'
-actionText: 开始进步 →
+actionText: 开始学习 →
 actionLink: /js/promise/
 features:
 - title: 'Work'
