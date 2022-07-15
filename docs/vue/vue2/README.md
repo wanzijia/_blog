@@ -1,5 +1,7 @@
 # vue2
 
+[vue2 官方文档](https://cn.vuejs.org/)
+
 ## Vue.js 基础
 
 vue的使用，简单理解，new出来一个Vue的实例，传一堆配置参数，控制一片html
@@ -931,5 +933,3 @@ vue不渲染只声明逻辑的系统元素 有 template，keep-alive，component
 
   使用第三方库(TweenMax)来实现切换元素自身的过渡状态,具体查询 [官网](https://cn.vuejs.org/v2/guide/transitioning-state.html)
 
-## vue diff算法
-[diff](https://www.cnblogs.com/wind-lanyan/p/9061684.html)
