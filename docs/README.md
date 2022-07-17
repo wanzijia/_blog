@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo/logo.gif
+heroImage: /logo/logo.webp
 heroText: '前端进阶'
 tagline: '向前挪一步'
 actionText: 开始学习 →

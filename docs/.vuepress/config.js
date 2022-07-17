@@ -28,6 +28,9 @@ module.exports = {
                 'event',
                 'request'
             ],
+            '/js/apiDoc/': [
+                '',
+            ],
             '/module/': [
                 '',
             ],
@@ -51,10 +54,16 @@ module.exports = {
             '/vue/vueRouter/': [
                 '',
             ],
-            '/vue/interview/': [
+            '/interview/': [
                 '',
             ],
             '/vue/principle/': [
+                '',
+            ],
+            '/react/': [
+                '',
+            ],
+            '/performanceOptimization/': [
                 '',
             ]
         }

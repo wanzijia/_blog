@@ -1,4 +1,5 @@
 ## vuex
+[vuex 官方文档](https://vuex.vuejs.org/zh/)
 
 ### 状态管理
 

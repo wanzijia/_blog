@@ -1,6 +1,7 @@
 # 面试题
-## vue-router
-### vue-router有关
+## 框架相关
+### vue-router
+#### vue-router有关
 
 1. hash 路由 和 history 路由，有什么区别
 
@@ -34,31 +35,41 @@ popState 是监听其他的操作。
   - 点击浏览器的前进、后退按钮
   - back / forward / go
 
-## vue2 和 vue3 的区别
+### vue2 和 vue3 
 
-### 从 vue2 到 vue3 有哪些升级更新（非兼容的变更）
+#### 从 vue2 到 vue3 有哪些升级更新（非兼容的变更）
 
-### 底层数据劫持的区别，从defineproperty到proxy
+#### 底层数据劫持的区别，从defineproperty到proxy
 
-### 组件形态上的变化
+#### 组件形态上的变化
 
-### 组合api的优势
+#### 组合api的优势
 
-### vue2中vue3
+#### vue2中vue3
 
-### vue3源码 diff算法你了解吗
+#### vue3源码 diff算法你了解吗
 
 
 [v2和v3 diff算法的区别](https://zhuanlan.zhihu.com/p/421197879)
 
-## react 和 vue 的区别
+### react 和 vue 
 
-###  hooks有什么区别
+####  hooks有什么区别
 
-### 生命周期
+#### 生命周期
 
-### 路由
+#### 路由
 
-### 更新的方法机制
+#### 更新的方法机制
 
-### 状态管理库（redux和vuex）
+#### 状态管理库（redux和vuex）
+
+
+## css相关
+
+
+## js相关
+
+## 服务端&浏览器
+
+1. 从输入url到获取页面过程
